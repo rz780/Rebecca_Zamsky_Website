@@ -8,7 +8,6 @@ My name is Rebecca Zamsky! And I am graduating Lehigh University this May!
 
 <p style="text-align:center;">
 
-git revert HEAD~3...HEAD # revert the last three commits
 
 
 </p>

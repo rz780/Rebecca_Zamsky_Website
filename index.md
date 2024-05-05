@@ -7,7 +7,7 @@ My name is Rebecca Zamsky! And I am graduating Lehigh University this May!
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="/images/Lehigh-University-building.avif"50%">
+ "/images/Lehigh-University-building.avif"50%">
 </p>
 
 ---

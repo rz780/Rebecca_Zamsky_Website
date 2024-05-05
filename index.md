@@ -37,7 +37,6 @@ _**PennsyLvania Index**_
 _**[Regression Practice](Regression_practice)**_
 
 - The last assignment for my Data Science for Finance course we created a Machine Learning Model to predict the Sales Price.
-- 
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -45,8 +44,6 @@ _**[Regression Practice](Regression_practice)**_
 
 _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 - Team Project is yet to be completed as it is currently in progress. Will add upon completion on Tuesday 5/7.
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
@@ -56,11 +53,14 @@ _**[Investment Management Group Stock Pitch](/pdf/sample_presentation.pdf)**_
 
 ---
 
+## Relevant Coursework
+
+Advanced Financial Modeling, Data Science for Finance, International Finance, Introduction to Machine Learning, Advanced Corporate Finance, Derivatives and Risk Management, Intermediate Macroeconomics, Statistical Computing, Statistics for Business Applications.
+
+
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+I enjoy the quantitative aspect of the financial industry. I find the financial modeling the most intersting, exciting and intriguing element. I majored in Finance to have a thorough understanding of the financial industry, and minored in data science to build upon the analytical and quantitative aspect of my work. I aim to work in a role where I can leverage and expand upon both skillsets.
 
 ---
 
@@ -76,10 +76,9 @@ Sell yourself!
     - Choreographed the final dance for the semester
 - **Kappa Alpha Theta Fraternity**
 - **Lehigh Hillel**
--   
 
 ## Hobbies
-- Outside of class and extracurriculars I like playing and watching soccer, watching football, going to broadway shows and ballets
+- Outside of class and extracurriculars I like playing and watching soccer, watching football, going to broadway shows and ballet performances
 
 
 ---

@@ -50,7 +50,7 @@ _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
 _**[Investment Management Group Stock Pitch](/pdf/sample_presentation.pdf)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="https://github.com/rz780/Rebecca_Zamsky_Website/blob/master/images/pdf2png.zip?raw=true"/>
 
 ---
 

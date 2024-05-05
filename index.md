@@ -1,7 +1,5 @@
 ## About Me
 
-What's up? hey\|you
-
 My name is Rebecca Zamsky! And I am graduating Lehigh University this May!
 Major: Finance
 Minor: Data Science

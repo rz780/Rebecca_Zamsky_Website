@@ -27,11 +27,10 @@ My name is Rebecca Zamsky! And I am graduating Lehigh University!
 _**PennsyLvania Index**_
 
 **Overview:**
-- During my freshman and sophomore year of college I worked with the Masters of Financial Engineering Department to 
+- During my freshman and sophomore year of college I worked with the Masters of Financial Engineering Department to develop an index of the top 100 Pennsylvania Project. 
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="https://github.com/rz780/Rebecca_Zamsky_Website/blob/master/images/PA_100.png"/>
 
 ---
 

@@ -11,7 +11,7 @@ My name is Rebecca Zamsky! And I am graduating Lehigh University!
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img src="/images/download.jpg" width="30%">
+  <img src="/images/download.jpg?raw=true" width="30%">
 </p>
 
 

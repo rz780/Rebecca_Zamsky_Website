@@ -39,7 +39,7 @@ _**[Regression Practice](Regression_practice)**_
 - The last assignment for my Data Science for Finance course we created a Machine Learning Model to predict the Sales Price of a house given various categorical and numerical variables.
 - I used a random forest regressor and achieved an R-squared value of 0.85865
 
-<img src="https://github.com/rz780/Rebecca_Zamsky_Website/blob/master/images/regression_plot.png?raw=true"/>
+<img src="https://github.com/rz780/Rebecca_Zamsky_Website/blob/master/images/graph.png?raw=true"/>
 
 ---
 

@@ -8,7 +8,7 @@ My name is Rebecca Zamsky! And I am graduating Lehigh University this May!
 
 <p style="text-align:center;">
 
-"https://github.com/rz780/Rebecca_Zamsky_Website/blob/master/images/download.jpg"
+"/images/download.jpg"
 
 </p>
 

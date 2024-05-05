@@ -7,7 +7,7 @@ My name is Rebecca Zamsky! And I am graduating Lehigh University this May!
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/rz780/Rebecca_Zamsky_Website/blob/master/images/download.jpg" width="30%">
+  <img src="https://github.com/rz780/Rebecca_Zamsky_Website/blob/master/images/download.jpg" width="30%">
 </p>
 
 
@@ -20,7 +20,10 @@ My name is Rebecca Zamsky! And I am graduating Lehigh University this May!
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
+_**PennsyLvania Index**_
+
+**Overview:**
+- During my freshman and sophomore year of college I worked with the Masters of Financial Engineering Department to 
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 

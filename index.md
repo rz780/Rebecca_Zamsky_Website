@@ -1,8 +1,12 @@
 ## About Me
 
-My name is Rebecca Zamsky! And I am graduating Lehigh University this May!
+My name is Rebecca Zamsky! And I am graduating Lehigh University!
 <br> Major: Finance
 <br> Minor: Data Science
+<br> After graduation: Equity Research Associate at Jefferies
+<br><br>
+
+**Check out some of my key projects below**
 
 <!-- Upload your own photo and change the path -->
 

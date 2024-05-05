@@ -7,7 +7,7 @@ My name is Rebecca Zamsky! And I am graduating Lehigh University this May!
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
+  <img class="img-circle" src="https://github.com/rz780/Rebecca_Zamsky_Website/blob/master/images/download.jpg" width="50%">
 </p>
 
 

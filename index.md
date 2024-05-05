@@ -36,7 +36,9 @@ _**PennsyLvania Index**_
 
 _**[Regression Practice](Regression_practice)**_
 
-- The last assignment for my Data Science for Finance course we created a Machine Learning Model to predict the Sales Price.
+- The last assignment for my Data Science for Finance course we created a Machine Learning Model to predict the Sales Price of a house given various categorical and numerical variables.
+- I used a random forest regressor and achieved an R-squared value of 0.85865
+- 
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 

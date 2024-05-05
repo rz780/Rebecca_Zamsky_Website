@@ -2,7 +2,9 @@
 
 What's up? hey\|you
 
-I am an awesome student at Lehigh, you should hire me!
+My name is Rebecca Zamsky! And I am graduating Lehigh University this May!
+Major: Finance
+Minor: Data Science
 
 <!-- Upload your own photo and change the path -->
 
